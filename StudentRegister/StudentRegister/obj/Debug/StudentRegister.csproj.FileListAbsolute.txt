@@ -1,0 +1,10 @@
+C:\workspace\StudentRegister\StudentRegister\bin\Debug\StudentRegister.exe.config
+C:\workspace\StudentRegister\StudentRegister\bin\Debug\StudentRegister.exe
+C:\workspace\StudentRegister\StudentRegister\bin\Debug\StudentRegister.pdb
+C:\workspace\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csprojAssemblyReference.cache
+C:\workspace\StudentRegister\StudentRegister\obj\Debug\StudentRegister.Form1.resources
+C:\workspace\StudentRegister\StudentRegister\obj\Debug\StudentRegister.Properties.Resources.resources
+C:\workspace\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csproj.GenerateResource.cache
+C:\workspace\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csproj.CoreCompileInputs.cache
+C:\workspace\StudentRegister\StudentRegister\obj\Debug\StudentRegister.exe
+C:\workspace\StudentRegister\StudentRegister\obj\Debug\StudentRegister.pdb
